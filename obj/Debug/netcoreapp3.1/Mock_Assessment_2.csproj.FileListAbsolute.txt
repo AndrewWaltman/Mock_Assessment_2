@@ -1,0 +1,11 @@
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Mock_Assessment_2\Mock_Assessment_2\bin\Debug\netcoreapp3.1\Mock_Assessment_2.exe
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Mock_Assessment_2\Mock_Assessment_2\bin\Debug\netcoreapp3.1\Mock_Assessment_2.deps.json
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Mock_Assessment_2\Mock_Assessment_2\bin\Debug\netcoreapp3.1\Mock_Assessment_2.runtimeconfig.json
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Mock_Assessment_2\Mock_Assessment_2\bin\Debug\netcoreapp3.1\Mock_Assessment_2.runtimeconfig.dev.json
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Mock_Assessment_2\Mock_Assessment_2\bin\Debug\netcoreapp3.1\Mock_Assessment_2.dll
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Mock_Assessment_2\Mock_Assessment_2\bin\Debug\netcoreapp3.1\Mock_Assessment_2.pdb
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Mock_Assessment_2\Mock_Assessment_2\obj\Debug\netcoreapp3.1\Mock_Assessment_2.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Mock_Assessment_2\Mock_Assessment_2\obj\Debug\netcoreapp3.1\Mock_Assessment_2.AssemblyInfoInputs.cache
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Mock_Assessment_2\Mock_Assessment_2\obj\Debug\netcoreapp3.1\Mock_Assessment_2.AssemblyInfo.cs
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Mock_Assessment_2\Mock_Assessment_2\obj\Debug\netcoreapp3.1\Mock_Assessment_2.dll
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 3\Mock_Assessment_2\Mock_Assessment_2\obj\Debug\netcoreapp3.1\Mock_Assessment_2.pdb
